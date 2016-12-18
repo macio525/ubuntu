@@ -1,0 +1,5 @@
+apt-get -y install language-pack-pl-base language-pack-pl
+localectl 
+localectl list-locales 
+localectl set-locale LANG=pl_PL.UTF-8 LANGUAGE="pl_PL:pl"
+localectl 
