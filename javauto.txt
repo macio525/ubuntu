@@ -1,0 +1,21 @@
+mouseClick("left", 1271, 671);
+sleep(10000);
+mouseClick("left", 1280, 769);
+sleep(25000);
+mouseClick("left", 1360, 771);
+sleep(25500);
+mouseClick("left", 1360, 671);
+sleep(25500);
+mouseClick("left", 1340, 710);
+sleep(15000);
+mouseClick("left", 1300, 710);
+sleep(15000);
+mouseClick("left", 1320, 675);
+sleep(15000);
+
+
+#!/bin/bash
+while true; do 
+    java -jar ja.jar
+    sleep 1
+done
