@@ -7,6 +7,7 @@ localectl
 
 sudo apt install xfce4 xfce4-goodies tightvncserver autocutsel
 
+nano ~/.vnc/xstartup
 
 startxfce4 &
 autocutsel -fork
