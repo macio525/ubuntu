@@ -3,3 +3,6 @@ localectl
 localectl list-locales 
 localectl set-locale LANG=pl_PL.UTF-8 LANGUAGE="pl_PL:pl"
 localectl 
+
+
+sudo apt install xfce4 xfce4-goodies tightvncserver autocutsel
