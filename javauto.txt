@@ -12,10 +12,3 @@ mouseClick("left", 1300, 710);
 sleep(15000);
 mouseClick("left", 1320, 675);
 sleep(15000);
-
-
-#!/bin/bash
-while true; do 
-    java -jar ja.jar
-    sleep 1
-done
